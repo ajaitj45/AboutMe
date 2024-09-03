@@ -21,18 +21,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ajaitj17&show_icons=true&theme=radical" alt="Ajai's GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajaitj17&theme=radical" alt="Ajai's GitHub streak" />
 </p>
-## 📈 GitHub Activity
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=ajaitj17&theme=react-dark" alt="Ajai's GitHub Activity Graph" />
-</p>
+
 
 
 ## 📈 Top Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaitj17&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-## 👀 Visitor Count
-![Visitor Count] https://komarev.com/ghpvc/?username=ajaitj17&color=blue
+
 
 
 
